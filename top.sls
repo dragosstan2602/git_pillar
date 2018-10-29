@@ -1,4 +1,4 @@
-testenv:
+base:
   'CSR-RT01':
     - CSR-RT01_pillar
   'CSR-RT02':
