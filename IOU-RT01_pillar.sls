@@ -1,6 +1,6 @@
 proxy:
   proxytype: napalm
   driver: ios
-  hostname: 10.255.255.4
+  hostname: IOU-RT01
   username: admin
   password: gns3
