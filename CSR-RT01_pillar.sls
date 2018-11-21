@@ -1,6 +1,6 @@
 proxy:
   proxytype: napalm
   driver: ios
-  hostname: 10.255.255.5
+  hostname: CSR-RT01
   username: admin
   password: gns3
