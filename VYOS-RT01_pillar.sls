@@ -1,6 +1,6 @@
 proxy:
   proxytype: napalm
   driver: vyos
-  hostname: 10.255.255.1
+  hostname: VYOS-RT01
   username: admin
   password: gns3
