@@ -1,6 +1,6 @@
 proxy:
   proxytype: napalm
-  driver: eos
-  hostname: 10.255.255.2
+  driver: vyos
+  hostname: 10.255.255.1
   username: admin
   password: gns3

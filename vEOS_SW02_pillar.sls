@@ -1,6 +1,6 @@
 proxy:
   proxytype: napalm
-  driver: ios
-  hostname: 10.255.255.2
+  driver: eos
+  hostname: 10.255.255.3
   username: admin
   password: gns3
