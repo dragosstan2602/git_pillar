@@ -1,6 +1,6 @@
 proxy:
   proxytype: napalm
   driver: eos
-  hostname: 10.255.255.3
+  hostname: vEOS_SW02
   username: admin
   password: gns3
